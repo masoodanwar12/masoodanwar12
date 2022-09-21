@@ -72,14 +72,32 @@ print('your job is' + job )
 num =input('give me a number?')
 print('you said:' + str(num))
 
-
 # In[ ]:
 
-
-
-
-
-# In[ ]:
+enter a number22
+the give num is an even
+enter an integer1
+enter an integer value2
+enter an integer value3
+enter an integer value4
+enter an integer value7
+enter an integer value0
+sum of given value is 17
+enter num22
+num is not prime
+enter num23
+enter num54
+enter num67
+enter num12
+enter num333
+sum is 489
+sum is 10
+What is your name?m masoood anwar
+hellom masoood anwar
+What is your job?student
+your job isstudent
+give me a number?19
+you said:19
 
 
 
